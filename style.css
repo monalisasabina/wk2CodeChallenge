@@ -1,0 +1,88 @@
+html {
+    height: 100%;
+    width: 100%;
+}    
+
+
+body{
+    background-color: cornflowerblue;
+}
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+label {
+    border: 100px;
+    border-color: darkgrey;
+    border-width: 200px;
+    
+
+}
+
+
+#list {
+    background-color: bisque;
+    list-style-position:inside;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+    
+form {
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+
+label {
+    font-size: 20px;
+}
+
+
+input#shoppingList{
+    border-radius: 20px;
+    height: 50px;
+    width:500px;
+    font-size: 20px;
+}
+
+
+input#submit{
+    border-radius: 50px;
+    height: 50px;
+    width:100px;
+}
+
+
+p {
+    text-align: left;
+    padding-top: 10px;
+}
+
+
+button.btn1 {
+    position: absolute;
+    font-size: 15px;
+    margin-left: 800px;
+    border-radius: 5px;    
+}
+
+
+button#clear {
+    color:black;
+    text-align: center;
+    border-radius: 5px;
+    margin-right: 20px;
+    background-color: blueviolet;
+    font-size: 18px;
+
+}
+
+
+
