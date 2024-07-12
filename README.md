@@ -8,3 +8,5 @@
  2. The users here can add items to the list and mark items as purchased. 
  3. The list will then be cleared once the user is done with the list using a 'clear text button.
 
+I have used netflify to host the website;
+ https://flourishing-clafoutis-3f2782.netlify.app/
